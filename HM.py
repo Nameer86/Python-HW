@@ -1,0 +1,11 @@
+name = input("Enter your name : ")
+age = int(input("Enter your age : "))
+address = input("Enter your address : ")
+salary = float(input("Enter your salary : "))
+last_meal = input("Enter last meal you ate : ")
+
+print(name)
+print(age)
+print(address)
+print(salary)
+print(last_meal)
